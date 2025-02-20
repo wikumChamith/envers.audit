@@ -1,4 +1,4 @@
-${moduleName}
+Improved Audit Logging
 ==========================
 
 Description
